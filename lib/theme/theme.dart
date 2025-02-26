@@ -55,9 +55,6 @@ class BlaTextStyles {
   static TextStyle button =  TextStyle(fontSize: 14, fontWeight: FontWeight.w500);
 }
 
-class BlaSize {
-  static const double icon = 24;
-}
 
 
 ///
